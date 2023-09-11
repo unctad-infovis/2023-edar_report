@@ -32,28 +32,41 @@ function Footer() {
                   </li>
                 </ul>
               </div>
-              <div className="">
-                <h4>Download the report video</h4>
-                <ul>
-                  <li>
-                    <a href="https://vimeo.com/854722140" target="_blank" rel="noreferrer">English</a>
-                    {', '}
-                    <a href="https://vimeo.com/854722369" target="_blank" rel="noreferrer">Français</a>
-                    {', '}
-                    <a href="https://vimeo.com/854723336" target="_blank" rel="noreferrer">Español</a>
-                    {', '}
-                    <a href="https://vimeo.com/854723577" target="_blank" rel="noreferrer">العربية</a>
-                    {', '}
-                    <a href="https://vimeo.com/854723733" target="_blank" rel="noreferrer">简体中文</a>
-                    {', '}
-                    <a href="https://vimeo.com/854723095" target="_blank" rel="noreferrer">Русский</a>
-                    {', '}
-                    <a href="https://vimeo.com/854722839" target="_blank" rel="noreferrer">Português</a>
-                    {', '}
-                    <a href="https://vimeo.com/854722605" target="_blank" rel="noreferrer">Kiswahili</a>
-                  </li>
-                </ul>
+              <ul>
+                <li>
+                  <strong>Download the report video:</strong>
+                  {' '}
+                  <a href="https://vimeo.com/854722140" target="_blank" rel="noreferrer">English</a>
+                  {', '}
+                  <a href="https://vimeo.com/854722369" target="_blank" rel="noreferrer">Français</a>
+                  {', '}
+                  <a href="https://vimeo.com/854723336" target="_blank" rel="noreferrer">Español</a>
+                  {', '}
+                  <a href="https://vimeo.com/854723577" target="_blank" rel="noreferrer">العربية</a>
+                  {', '}
+                  <a href="https://vimeo.com/854723733" target="_blank" rel="noreferrer">简体中文</a>
+                  {', '}
+                  <a href="https://vimeo.com/854723095" target="_blank" rel="noreferrer">Русский</a>
+                  {', '}
+                  <a href="https://vimeo.com/854722839" target="_blank" rel="noreferrer">Português</a>
+                  {', '}
+                  <a href="https://vimeo.com/854722605" target="_blank" rel="noreferrer">Kiswahili</a>
+                </li>
+              </ul>
+              <h4>Watch the press conference (Nairobi, Kenya)</h4>
+              <div className="iframe_container youtube_iframe">
+                <iframe src="https://www.youtube.com/embed/nH0xRZQAnfA" title="Economic Development in Africa Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
               </div>
+              <ul>
+                <li>
+                  <strong>Download:</strong>
+                  {' '}
+                  <a href="https://vimeo.com/855456106" target="_blank" rel="noreferrer">Video</a>
+                  ,
+                  {' '}
+                  <a href=" https://bit.ly/47BSLFl" target="_blank" rel="noreferrer">Audio</a>
+                </li>
+              </ul>
               <h4>Interview with the report’s lead author, Habiba Ben Barka</h4>
               <div className="iframe_container youtube_iframe">
                 <iframe src="https://www.youtube.com/embed/eLo3fadu0lo" title="Interview with the report’s lead author, Habiba Ben Barka" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
@@ -65,12 +78,6 @@ function Footer() {
                   <a href="https://vimeo.com/854741677" target="_blank" rel="noreferrer">English</a>
                 </li>
               </ul>
-              <div className="hidden">
-                <h4>Watch the press conference</h4>
-                <div className="iframe_container youtube_iframe">
-                  <iframe src="https://www.youtube.com/embed/rUR6isHC8MI" title="Economic Development in Africa Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-                </div>
-              </div>
             </div>
             <div className="footer_content anchor_podcasts" id="anchor_podcasts">
               <h3>Podcasts</h3>
