@@ -12,7 +12,7 @@ function Footer() {
               <div className="">
                 <h3>Watch the videos</h3>
                 <div className="iframe_container youtube_iframe">
-                  <iframe src="https://www.youtube.com/embed/_jpNG1eEEwI" title="Economic Development in Africa Report" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen  referrerPolicy="strict-origin-when-cross-origin"/>
+                  <iframe src="https://www.youtube.com/embed/_jpNG1eEEwI" title="Economic Development in Africa Report" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
                 </div>
                 <ul>
                   <li>
@@ -55,7 +55,7 @@ function Footer() {
               </ul>
               <h4>Watch the press conference (Nairobi, Kenya)</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/nH0xRZQAnfA" title="Economic Development in Africa Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen  referrerPolicy="strict-origin-when-cross-origin"/>
+                <iframe src="https://www.youtube.com/embed/nH0xRZQAnfA" title="Economic Development in Africa Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
               </div>
               <ul>
                 <li>
@@ -69,7 +69,7 @@ function Footer() {
               </ul>
               <h4>Interview with the report’s lead author, Habiba Ben Barka</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/eLo3fadu0lo" title="Interview with the report’s lead author, Habiba Ben Barka" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/eLo3fadu0lo" title="Interview with the report’s lead author, Habiba Ben Barka" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
               </div>
               <ul>
                 <li>
